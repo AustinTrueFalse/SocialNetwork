@@ -10,5 +10,7 @@ namespace SocialNetwork.BLL.Models
     {
         public int SenderId { get; set; }
         public string RecipientEmail { get; set; }
+
+
     }
-}
+};
